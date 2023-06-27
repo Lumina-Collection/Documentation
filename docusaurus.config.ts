@@ -193,9 +193,9 @@ const config: Config = {
       theme: themes.vsDark,
     },
     algolia: {
-      appId: "APSXG8LIBC",
-      apiKey: "80d23c6712ebf895266944fa3b645c41",
-      indexName: "docs_luminacollection",
+      appId: "34DICCK4P9",
+      apiKey: "b03e0f4944efb11549201a3923c6b81f",
+      indexName: "luminacollection",
       contextualSearch: true,
     },
   },
