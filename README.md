@@ -1,6 +1,6 @@
 # Lumina Collection Documentation
 
-The content of this repository is published to [docs.luminacollection.net](docs.luminacollection.net) for viewing.
+The content of this repository is published to [docs.luminacollection.net](https://docs.luminacollection.net) for viewing.
 
 ## Getting Started
 
