@@ -14,4 +14,4 @@ slug: /admin/configuration/commands-and-permissions
 | /name <name>                     | nameshift.command.name.self   | Allows to change the own name.              |
 | /name give <player> <name>       | nameshift.command.name.others | Allows to change the name of other players. |
 | /name reset <player>             | nameshift.command.name.others | Resets a players name.                      |
-| /whois <name|all>                | nameshift.command.whois       | Allows to lookup the player behind a name.  |
+| /whois <name\|all>               | nameshift.command.whois       | Allows to lookup the player behind a name.  |
